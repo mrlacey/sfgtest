@@ -1,0 +1,3 @@
+this is a sample file for testing the SfgTest extension/project.
+another line
+third line
